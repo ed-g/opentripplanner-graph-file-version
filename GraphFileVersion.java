@@ -6,7 +6,7 @@
   searching its serialized data.
 
   Copyright 2013 Ed Groth
-  http://ed-groth.com
+  http://github.com/ed-g
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
